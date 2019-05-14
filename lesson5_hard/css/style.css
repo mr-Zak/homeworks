@@ -1,0 +1,67 @@
+
+h1 {
+    text-align: center;
+    border: 15px rgb(123, 12, 76);
+    border-style: double;
+}
+
+#chapter{
+    text-align: center;
+    color: black;
+    border: 5px rgb(9, 207, 69);
+    border-style: dashed;
+}
+
+#chapter_2 {
+    text-align: center;
+    color: rgba(253, 6, 6, 0.589)
+}
+
+#chapter_3 {
+    text-align: center;
+    color: rgb(9, 207, 69)
+}
+
+h4 {
+    text-align: center;
+    color: white;
+}
+
+h5{
+    text-align: center;
+    background-color: rgb(59, 12, 12);
+    color: #aeaeae;
+}
+
+.word { 
+    font-weight: bold;
+    
+}
+
+#italics {
+    font-style: italic;
+}
+
+#underscore {
+    text-decoration: underline;
+}
+
+#crossed_out {
+    text-decoration: line-through; 
+}
+
+body {
+  background-attachment:fixed;
+  background-image: linear-gradient(rgba(85, 84, 77, 0.7), rgba(68, 117, 84, 0.7)), url(img/ring.jpg);
+  color: rgb(14, 12, 19);
+}
+
+.box {
+    position: fixed;
+    right: 10px;
+    bottom: 25px;
+    color: rgb(0, 0, 0);
+    font-weight: bolder;
+    background-color: rgb(173, 177, 185);
+    border-radius: 30px;
+}
