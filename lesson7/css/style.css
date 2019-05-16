@@ -1,0 +1,56 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    background-color: #f9f9f9;
+}
+
+h2 {
+    text-align: center;
+    font-size: 5vh;
+    margin-top: 8%;
+    font-family: sans-serif;
+}
+
+.box {
+    display: flex;
+    width: 90%;
+    height: 70%;
+    margin-top: 3%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+    justify-content: space-between;
+    align-items: center;
+    
+
+}
+
+.block {
+    text-align: center;
+    display: inline-block;
+    width: 20%;
+
+}
+
+h5{
+    font-size: 2.5vh;
+    font-family: sans-serif;
+}
+
+p {
+    font-size: 3vh;
+    font-family: sans-serif;
+}
+
+button {
+    border: 1%;
+    border-color: blueviolet;
+    font-size: 2.5vh;
+    font-family: sans-serif;
+    width: 70%;
+    height: 25%;
+    background-color: rgb(150, 6, 13);
+    color: rgb(121, 121, 187);
+
+
+}
