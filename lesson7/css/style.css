@@ -1,0 +1,59 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    background-color: #f9f9f9;
+}
+
+h2 {
+    text-align: center;
+    font-size: 5vh;
+    margin-top: 8%;
+    font-family: sans-serif;
+}
+
+.box {
+    display: flex;
+    width: 90%;
+    height: 70%;
+    margin-top: 3%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+    justify-content: space-between;
+    align-items: center;
+    
+
+}
+
+.block {
+    text-align: center;
+    display: inline-block;
+    width: 20%;
+
+}
+
+h5{
+    font-size: 2.5vh;
+    font-family: sans-serif;
+}
+
+p {
+    font-size: 3vh;
+    font-family: sans-serif;
+}
+
+button {
+    border: 1px solid;
+    padding-top: 23px;
+    padding-bottom: 23px;
+    padding-right: 75px;
+    padding-left: 74px;
+    color: #23bac1;
+    font-family: "Proxima Nova";
+    font-size: 13px;
+    font-weight: 700;
+    text-transform: uppercase;
+    background-color: #f9f9f9;
+    
+
+}
